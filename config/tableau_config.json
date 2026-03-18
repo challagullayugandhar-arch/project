@@ -1,0 +1,8 @@
+{
+  "tableau_server": "https://tableau.example.com",
+  "project_name": "Default",
+  "credentials": {
+    "user": "",
+    "token": ""
+  }
+}

@@ -1,0 +1,5 @@
+spark:
+  master: local[*]
+  appName: project_app
+  configs:
+    spark.executor.memory: 2g
